@@ -1,4 +1,8 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+
+Landing Page — Responsive Website with SASS (SCSS)
+
+A fully responsive and modern landing page built using **HTML5**, **SASS (SCSS)**.
+
+The project focuses on clean UI, modular styles, high performance, and smooth user experience across all screen sizes.
+
+  - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
