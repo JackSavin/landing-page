@@ -5,4 +5,4 @@ A fully responsive and modern landing page built using **HTML5**, **SASS (SCSS)*
 
 The project focuses on clean UI, modular styles, high performance, and smooth user experience across all screen sizes.
 
-  - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+  - [DEMO LINK](https://github.com/JackSavin/landing-page)
